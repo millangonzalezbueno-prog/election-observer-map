@@ -9,8 +9,10 @@ Built for *Witnesses without weapons: when do international observers protect el
 
 ## Data
 
-- Coppedge, Michael, et al. 2026. *V-Dem Country-Year Dataset v16*. Varieties of Democracy (V-Dem) Project.
-  Variables: `v2elintmon`, `v2elmonden`, `v2elmonref`, `v2x_regime_amb`, `v2x_polyarchy`, `e_regionpol_6C`.
+- Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, et al. 2026.
+  "V-Dem Country-Year Dataset v16." Varieties of Democracy (V-Dem) Project. https://doi.org/10.23696/vdemds26
+- Pemstein, Daniel, et al. 2026. "The V-Dem Measurement Model." V-Dem Working Paper No. 21, 11th ed.
+- Variables: `v2elintmon`, `v2elmonden`, `v2elmonref`, `v2x_regime_amb`, `v2x_polyarchy`, `e_regionpol_6C`.
 - Map geometry: Natural Earth 1:110m via [world-atlas](https://github.com/topojson/world-atlas).
 
 V-Dem codes 0 as "No/Unclear", so observer presence is a lower bound. The data records whether
